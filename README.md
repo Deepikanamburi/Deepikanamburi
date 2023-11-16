@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Deepikanamburi
-- 👀 I’m interested in full stack development
+- 👀 I’m intersed in learing and exploring the world with my knowledge
 - 🌱 I’m currently learning btech 2nd year
-
-<!---
-Deepikanamburi/Deepikanamburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🙂 I'm active in multimedia and using the tools of generative AI
+- As you can see one of my interaction video on NATURAL DEDUCTION SYSTEMS which is built by me for my classmates to provide knowledge through interactive learning.
+- 🎞️Youtube Link:[https://youtu.be/gQItE6IF72A?si=DibD5P3zjh00Tj_m]
