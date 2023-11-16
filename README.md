@@ -2,5 +2,5 @@
 - 👀 I’m intersed in learing and exploring the world with my knowledge
 - 🌱 I’m currently learning btech 2nd year
 - 🙂 I'm active in multimedia and using the tools of generative AI
-- As you can see one of my interaction video on NATURAL DEDUCTION SYSTEMS which is built by me for my classmates to provide knowledge through interactive learning.
-- 🎞️Youtube Link:[https://youtu.be/gQItE6IF72A?si=DibD5P3zjh00Tj_m]
+- As you can see one of my interactive video on NATURAL DEDUCTION SYSTEMS which is built for my classmates to provide knowledge through interactive learning.
+- 🎞️My Youtube Link:[https://youtu.be/gQItE6IF72A?si=DibD5P3zjh00Tj_m]
